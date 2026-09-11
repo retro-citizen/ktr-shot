@@ -1,0 +1,21 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'dev.ktr.shot'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'dev.ktr.shot'
+        minSdk 30
+        targetSdk 34
+        versionCode 5
+        versionName '0.3.1'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

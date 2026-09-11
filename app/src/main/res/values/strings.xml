@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_description">按下你设置的快捷键时截屏并保存到 Pictures/KTRShots。仅使用无障碍服务，不需要 Shizuku、root 或电脑激活。不读取窗口文本、不联网、不拦截或补发按键；KOS 和游戏原有快捷键仍可能同时生效。</string>
+</resources>
